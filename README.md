@@ -4,6 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
+Project for showing model in easy way using React components
 
 ### `npm install`
 
