@@ -3,3 +3,19 @@ body {
   padding: 0;
   font-family: 'Plus Jakarta Sans', sans-serif;
 }
+.wrapper{
+  width: 100%;
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-direction: column;
+}
+.employee_list{
+  height: 80vh;
+  margin-bottom: 10px;
+  overflow-y: auto;
+}
+table{
+  width: 500px;
+}
